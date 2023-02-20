@@ -43,3 +43,31 @@ header{
   width: 100%;
   height: 300px;
 }
+.section-even{
+  background-color: lightgray;
+}
+.section-odd{
+  background-color: white;
+}
+.container-cards{
+  margin: 0 auto;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+.container-img{
+  background-color: skyblue;
+  height: 400px;
+  width: 70%;
+}
+.container-content{
+  background-color: pink;
+  height: 400px;
+  width: 30%;
+}
+.container-download{
+  background-color: green;
+  height: 800px;
+  width: 100%;
+}
